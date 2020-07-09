@@ -1,0 +1,66 @@
+@font-face{
+	font-family:CeL;
+	src:url("../fontes/Champagne & Limousines.ttf");
+}
+a.setaDir{
+	color:#000000;
+	text-decoration:none;
+	float:right;
+	font-size:30px;
+	clear:both;
+	cursor:pointer;
+}
+#dCorpo{
+	width:800px;
+	height:490px;
+	margin:auto;
+	text-align:center;
+	/*BACKGROUND-COLOR:#FF0000;*/
+}
+#dCorpo h1{
+	color:#7F7F7F;
+	font-size:33px;
+	font-family:CeL;
+	margin-top:20px;
+	margin-bottom:15px;
+}
+.dOptions{
+	width:180px;
+	height:180px;
+	border-radius:1000px;
+	float:left;
+	margin:10px;
+	box-shadow:10px 10px 20px rgba(0,0,0,0.3);
+}
+.dOptions img{
+	width:180px;
+	height:180px;
+	border:3px solid #E7B44F;
+	border-radius:1000px;
+}
+.dOptions .dTexto{
+	width:180px;
+	position:absolute;
+	opacity:0;
+	transition:opacity 800ms;
+	border:3px solid #E7B44F;
+	border-radius:1000px;
+	background-color:#000000;
+}
+.dOptions .dTexto p{
+	font-size:25px;
+	text-align:center;
+	color:#FFFFFF;
+}
+.dOptions .dTexto:hover{
+	opacity:0.7;
+	cursor:pointer;
+}
+.dOptions .align1{
+	height:120px;
+	padding-top:60px;
+}
+.dOptions .align2{
+	height:105px;
+	padding-top:75px;
+}

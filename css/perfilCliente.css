@@ -1,0 +1,75 @@
+﻿#dCadastro h1{
+	font-size:45px;
+	font-weight:normal;
+	margin-bottom:40px;
+	margin-top: 15px;
+}
+
+#dLinha{
+	border:10px solid #E7B44F;
+	margin-top: -65px;
+	margin-left: 20px;
+	margin-right: 20px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	margin-bottom: 45px;
+
+}
+
+#dCadastro fieldset{
+	border:none;
+	padding:5px;
+	margin-top: 5px;
+	
+}
+a{
+	text-decoration:none;
+}
+.cEditar{
+	margin-left: 750px;
+	color: #E7B44F;
+	font-size:20px;
+	font-weight: bold;
+	
+}
+
+#dCadastro label{
+	font-size:20px;
+}
+#dCadastro span.dourado{
+	color:#E7B44F;
+}
+#dCadastro input{
+	width:280px;
+	height:30px;
+	font-size:20px;
+	border:1px solid #E7B44F;
+}
+
+#dCadastro button{
+	padding:8px 15px;
+	font-weight: bold;
+	margin-right: 165px;
+	float:right;
+	cursor:pointer;
+	font-size:16px;
+	border-radius:5px;
+	color:#FFFFFF;
+	border:2px solid #FFFFFF;
+	background-color:#E7B44F;
+}
+#formCadCliente{
+	text-align: center;
+}
+fieldset.dSenhaC{
+	margin-left: -100px;
+}
+fieldset.dSenhas{
+	margin-left: -60px;
+}
+#desativarConta{
+	color:#E7B44F;
+	margin-left:20px;
+	font-weight:bold;
+}

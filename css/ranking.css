@@ -1,0 +1,144 @@
+﻿h2{
+	color:#E7B44F;
+	font-size:22px;
+	text-align:center;
+}
+h3{
+	color:#E7B44F;
+	font-size:40px;
+	text-align:center;
+	margin-top:10px;
+}
+h4{
+	color:#696969;
+	font-size:15px;
+	text-align:center;
+	margin-top:5px;
+}
+h5{
+	color:#E7B44F;
+	font-size:20px;
+	margin-left:650px;
+	margin-top:5px;
+}
+#dDia{
+	width:100px;
+	height:30px;
+	background-color:#FFFFFF;
+	border:3px solid #E7B44F;
+	float:left;
+	margin-left:222px;
+	margin-top:10px;
+}
+#dSemana{
+	width:100px;
+	height:30px;
+	background-color:#FFFFFF;
+	border:3px solid #E7B44F;
+	float:left;
+	margin-left:72px;
+	margin-top:10px;
+}
+#dMes{
+	width:100px;
+	height:30px;
+	border:3px solid #E7B44F;
+	background-color:#FFFFFF;
+	float:left;
+	margin-left:72px;
+	margin-top:10px;
+}
+#dCorpo{
+	background-color:#FFFFFF;
+	border:2px solid #E7B44F;
+	border-bottom-width:5px;
+	width:auto;
+	height:700px;
+	margin-top:10px;
+}
+#dLinha{
+	background-color:#E7B44F;
+	width:auto;
+	height:20px;
+}
+#dTop1{
+	background-color:#FFFFFF;
+	border:3px #E7B44F;
+	border-style:outset;
+	width:250px;
+	height:250px;
+	margin-left:350px;
+	margin-top:10px;
+}
+#dTop2{
+	background-color:#FFFFFF;
+	border:3px #E7B44F;
+	border-style:outset;
+	width:250px;
+	height:250px;
+	float:left;
+	margin-left:155px;
+	margin-top: 35px;
+}
+#dTop3{
+	background-color:#FFFFFF;
+	border:3px #E7B44F;
+	border-style:outset;
+	width:250px;
+	height:250px;
+	margin-left:540px;
+	margin-top: 30px;
+}
+
+.img1{
+	margin:	15px 5px 5px 21px;
+	width:210px;
+	height:192px;
+}
+
+.img2{
+	margin:	15px 5px 5px 22px;
+	width:210px;
+	height:192px;
+}
+
+.img3{
+	margin:	15px 5px 5px 21px;
+	width:210px;
+	height:192px;
+}
+
+.cFoto{
+	/*background-color: red;*/
+	color: #E7B44F;
+	margin: 5px 5px 1px 25px;
+	text-align: center;
+	width: 202px;
+	height: 20px;
+}
+.cCirculo{
+	margin-top: -142px;
+	margin-left: 68px;
+	position:absolute;
+	z-index: 1;
+	width: 112px;
+	height: 90px;
+	border-radius: 100%;
+}
+.ImgC{
+	border-radius: 100%;
+	text-align: center;
+	width:	105px;
+	height: 90px;
+}
+#dLogin{
+	z-index:2;
+}
+p.ranking{
+	color:#000000;
+	text-align:center;
+}
+img{
+	width:auto;
+	margin-left:5px;
+}

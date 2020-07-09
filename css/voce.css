@@ -1,0 +1,15 @@
+#dCorpo{
+	width:690px;
+	margin:auto;
+}
+h1.voce{
+	margin-top:15px;
+	text-align:center;
+	font-weight:normal;
+}
+div.dImagem img{
+	float:left;
+	height:300px;
+	cursor:pointer;
+	margin:50px 25px 50px 25px;
+}

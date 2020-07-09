@@ -1,0 +1,214 @@
+#dCadastro form{
+	width:500px;
+	margin:auto;
+	margin-top:20px;
+	padding:10px;
+	border-left:2px solid #E7B44F;
+	border-right:40px solid #E7B44F;
+}
+#dCadastro h1{
+	font-size:25px;
+	font-weight:normal;
+	text-align:right;
+	margin-bottom:40px;
+	border-bottom:5px solid #E7B44F;
+}
+#dCadastro fieldset{
+	border:none;
+	padding:5px;
+}
+#dCadastro label{
+	font-size:20px;
+}
+#dCadastro span.dourado{
+	color:#E7B44F;
+}
+#dCadastro input{
+	height:30px;
+	font-size:20px;
+	border:1px solid #E7B44F;
+}
+
+/*	FORMATAÇÃO DO FORM */
+
+#dCadastro input#iCadNome{
+	width: 320px;
+	margin: -12px;
+}
+
+.nome{
+	margin: 13px;
+}
+
+#dCadastro input#iCadRazao{
+	width: 320px;
+	margin: -22px;
+}
+
+.razao{
+	margin: 22px;
+}
+
+#dCadastro input#iCadCNPJ{
+	width: 320px;
+	margin: -94px;
+}
+
+.cnpj{
+	margin: 94px;
+}
+
+#dCadastro select#iCadEstado{
+	width: 50px;
+	margin: -124px;
+}
+
+.uf{
+	margin: 124px;
+}
+
+#dCadastro select#iCadCidade{
+	width: 170px;
+	margin: -122px;
+}
+
+.cidade{
+	margin: 122px;
+}
+
+#dCadastro input#iCadRua{
+	width: 320px;
+	margin: -107px;
+}
+
+.rua{
+	margin: 107px;
+}
+
+#dCadastro select#iCadBairro{
+	width: 197px;
+	margin: -91px;
+}
+
+.bairro{
+	margin: 91px;
+}
+
+#dCadastro input#iCadNumero{
+	width: 87px;
+	margin: -85px;
+}
+
+.nume{
+	margin: 87px;
+}
+
+#dCadastro input#iCadComplemento{
+	width: 320px;
+	margin: -15px;
+}
+
+.complemento{
+	margin: 16px;
+}
+
+#dCadastro input#iCadTelefone{
+	width: 140px;
+	margin: -58px;
+}
+
+.telefone{
+	margin: 60px;
+}
+
+#dCadastro input#iCadCEP{
+	width: 113px;
+	margin: -65px;
+}
+
+.cep{
+	margin: 60px;
+}
+
+#dCadastro input#iCadURL{
+	width: 320px;
+	margin: -119px;
+}
+
+.url{
+	margin: 122px;
+}
+
+#dCadastro select#iCadCategoria{
+	width: 322px;
+	margin: -41px;
+}
+
+.categoria{
+	margin: 43px;
+}
+
+#dCadastro input#iCadEmail{
+	width: 320px;
+	margin: -82px;
+}
+
+.email{
+	margin: 85px;
+}
+
+#dCadastro input#iCadSenha{
+	width: 195px;
+	margin: -80px;
+	
+}
+
+.senha{
+	margin: 82px;
+}
+
+#dCadastro input#iConfSenha{
+	width: 118px;
+	margin-left: 78px;
+	
+}
+
+.Nsenha{
+	margin: 19px;
+}
+
+/*#dCadastro input#iCadAceito{
+	width: 20px;
+}
+*/
+
+#dCadastro label#iLabAceito{
+	font-size: 16px;
+	color: #7F7F7F;
+}
+
+#dCadastro select{
+	height:30px;
+	font-size:20px;
+	border:1px solid #E7B44F;
+}
+
+
+
+
+#dCadastro p.obs{
+	color:#E7B44F;
+	font-size:16px;
+	font-weight:normal;
+	font-family:Calibri;
+	margin-top:20px;
+}
+#dCadastro button{
+	padding:8px;
+	float:right;
+	cursor:pointer;
+	font-size:16px;
+	border-radius:5px;
+	border:2px solid #E7B44F;
+	background-color:#FFFFFF;
+}

@@ -1,0 +1,169 @@
+@font-face{
+	font-family:CeL;
+	src:url("../fontes/Champagne & Limousines.ttf");
+}
+h2{
+	color: #7F7F7F;
+	font-size: 25px;
+	margin-bottom:10px;
+	font-family:CeL;
+	
+}
+
+#titulo{
+	margin:40px 10px 10px 10px;
+	font-size: 35px;
+}
+
+#dLinha{
+	background-color:#E7B44F;
+	margin-top: 2px;
+	width: 185px;
+	height: 5px;
+	
+}
+
+#dLinha2{
+	background-color:#E7B44F;
+	margin: 10px;
+	width: auto;
+	height: 2px;
+	
+}
+
+#dBorde{
+	border-left: 20px solid #E7B44F;
+	border-bottom: 5px solid #E7B44F;
+	margin-top:30px;
+}
+
+#dBorde fieldset{
+	font-size:20px;
+	color: #7F7F7F;
+	border: none;
+	margin: 10px auto auto 50px;	
+}
+
+.tselect{
+	height:25px;
+	font-size:15px;
+	margin-right:5px;
+}
+
+#botao{
+	height:30px;
+	width:55px;
+	font-family:Century Gothic;
+	margin-left:10px;
+	font-size: 15px;
+	color:#FFFFFF;
+	background-color:#E7B44F;
+	border-radius:5px;
+	border: 1px solid #E7B44F;
+	cursor:pointer;
+	box-shadow: 2px 2px 5px #DBDBDB;
+}
+
+#dCorpo{
+	background-color: #FFFFFF;
+	border-top: 1px solid #E7B44F;
+	margin-top: -35px;
+	width: auto;
+	height: 900px;
+	overflow-y: scroll;
+}
+#msg{
+	text-align:center;
+	color:#E7B44F;
+	font-size:16px;
+}
+.dRest{
+	background-color: #FFFFFF;
+	border: 1px solid rgba(147,147,147,0.2);
+	border-radius: 50px 50px 50px 50px;
+	margin: 15px;
+	width:	780px;
+	height: 180px;
+	margin: auto;
+	margin-bottom: 10px;
+	box-shadow: 2px 2px 5px #DBDBDB;
+	-webkit-box-shadow: 2px 2px 5px #DBDBDB;
+	-moz-box-shadow:  2px 2px 5px #DBDBDB;
+}
+
+.dCirculo{
+	background-color: #FFFFFF;
+	border-radius: 100px;
+	margin: 20px 20px 0px 20px;
+	width:	140px;
+	height: 140px;
+	float: left;
+	text-align: center;
+}
+
+.ImgC{
+	border-radius: 100px;
+	text-align: center;
+	width:	140px;
+	height: 140px;
+}
+
+.dTexto{
+	background-color: #FFFFFF;
+	color:#7f7f7f;
+	width:	350px;
+	height: 150px;
+	float: left;
+	text-align: left;
+	margin: 20px 20px 0px 0px;
+}
+
+.site{
+	color:#7f7f7f;
+}
+
+.dEstrela{
+	float: left;
+	text-align: center;
+	width: 100px;
+	height: 180px;
+	font-size: 20px;
+	color: #E7B44F;
+}
+
+.ImgE{
+	text-align: center;
+	margin: 45px 30px 0px 0px;
+	width: 70px;
+	height: 50px;
+}
+
+.PE{
+	margin-right:30px;
+}
+
+.dVerPerfil{
+	background-color: #E7B44F;
+	border-radius: 25px;
+	border: 1px solid #E7B44F;
+	float: left;
+	margin-top:35px;
+	text-align: center;
+	width: 80px;
+	height: 80px;
+	box-shadow:2px 2px 3px #7f7f7f;
+}
+
+.VP{
+	color:white;
+	font-size: 30px;
+	margin-top:25px;
+	text-align: center;
+	font-family:Cel;
+}
+
+.VP a{
+	text-decoration : none;
+}
+
+

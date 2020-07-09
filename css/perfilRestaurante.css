@@ -1,0 +1,328 @@
+﻿#dLinha{
+	border: 10px solid #E7B44F;
+	margin-top: -65px;
+	margin-left: -150px;
+	margin-right: -150px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	margin-bottom: 30px;
+
+}
+
+#dCadastro h1{
+	font-size:45px;
+	text-align: center;
+	font-weight:normal;
+	margin-bottom:40px;
+	margin-top: 15px;
+}
+
+.cEditar{
+	margin-left: 720px;
+	color: #E7B44F;
+	font-size:20px;
+	font-weight: bold;
+}
+
+a{
+	text-decoration:none;
+}
+
+#desativarConta{
+	color:#E7B44F;
+	margin-left:20px;
+	font-weight:bold;
+}
+
+#dCadastro form{
+	width: 600px;
+	margin:auto;
+	margin-top:20px;
+	padding:10px;
+}
+
+#dCadastro fieldset{
+	border:none;
+	padding:5px;
+}
+
+#dCadastro label{
+	font-size:20px;
+}
+
+#dCadastro input{
+	height:30px;
+	font-size:20px;
+	border:1px solid #E7B44F;
+}
+
+#dCadastro input#iCadNome{
+	width: 320px;
+}
+
+#dCadastro input#iCadRazao{
+	width: 320px;
+	margin: -22px;
+}
+
+.razao{
+	margin: 22px;
+}
+
+#dCadastro input#iCadCNPJ{
+	width: 320px;
+	margin: -94px;
+}
+
+.cnpj{
+	margin: 94px;
+}
+
+#dCadastro select#iCadEstado{
+	width: 50px;
+	margin: -122px;
+}
+
+.uf{
+	margin: 122px;
+}
+
+#dCadastro select#iCadCidade{
+	width: 182px;
+	margin: -124px;
+}
+
+.cidade{
+	margin: 124px;
+}
+
+#dCadastro input#iCadRua{
+	width: 320px;
+	margin: -107px;
+}
+
+.rua{
+	margin: 107px;
+}
+
+#dCadastro select#iCadBairro{
+	width: 198px;
+	margin: -90px;
+}
+
+.bairro{
+	margin: 90px;
+}
+
+#dCadastro input#iCadNumero{
+	width: 76px;
+	margin: -100px;
+}
+
+.nume{
+	margin: 100px;
+}
+
+#dCadastro input#iCadComplemento{
+	width: 323px;
+	margin: -1px;
+}
+
+.complemento{
+	margin: 1px;
+}
+
+#dCadastro input#iCadTelefone{
+	width: 155px;
+	margin: -60px;
+}
+
+.telefone{
+	margin: 60px;
+}
+
+#dCadastro input#iCadCEP{
+	width: 108px;
+	margin-left: -64px;
+}
+
+.cep{
+	margin: 64px;
+}
+
+#dCadastro input#iCadURL{
+	width: 324px;
+	margin: -108px;
+}
+
+.url{
+	margin: 108px;
+}
+
+#dCadastro select#iCadCategoria{
+	width: 324px;
+	margin: -41px;
+}
+
+.categoria{
+	margin: 42px;
+}
+
+#dCadastro input#iCadEmail{
+	width: 322px;
+	margin: -80px;
+}
+
+.email{
+	margin: 82px;
+}
+
+#dCadastro input#iCadSenha{
+	width: 322px;
+	margin: -75px;
+}
+
+.senha{
+	margin: 78px;
+}
+
+#dCadastro input#iConfSenha{
+	width: 195px;
+	margin: -16px;
+}
+
+#dCadastro input#iConfSenha1{
+	width: 122px;
+	margin-left: 15px;
+	
+}
+
+.Nsenha{
+	margin: 19px;
+}
+
+/*#dCadastro input#iCadAceito{
+	width: 20px;
+}
+*/
+
+#dCadastro label#iLabAceito{
+	font-size: 16px;
+	color: #7F7F7F;
+}
+
+#dCadastro select{
+	height:30px;
+	font-size:20px;
+	border:1px solid #E7B44F;
+}
+/*
+	input[type="file"]{
+		border-radius: 1000px;
+		border: 3px dashed #000000;
+		background-color: #E7B44F;
+		margin-left: 195px;
+		margin-top: -200px;
+		width: 100px;
+		height: 100px;
+	}
+*/
+#dCadastro button{
+	padding:8px 20px;
+	font-weight: bold;
+	margin-right: 110px;
+	margin-top: 45px;
+	float:right;
+	cursor:pointer;
+	font-size:16px;
+	border-radius:5px;
+	color:#FFFFFF;
+	border:2px solid #FFFFFF;
+	background-color:#E7B44F;
+}
+
+#dLinha2{
+	border: 8px solid #E7B44F;
+	margin-top: 5px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	margin-bottom: 15px;
+
+}
+
+.cCurtidas{
+	background-color: #FFFFFF;
+	width: auto;
+	height: 100px;
+}
+
+.cCu{
+	color: #E7B44F;
+	font-size: 25px;
+	position: absolute;
+	margin-top: 15px;
+	font-weight: bold;
+	
+}
+
+.cQE{
+	padding:2px;
+	width: 107px;
+	height: 180px;
+	margin-left: 165px;
+	float: left;
+	
+}
+
+#dLinha3{
+	border: 2px solid #7F7F7F;
+	width: 100px;
+	margin: 0px 2px 2px 2px;
+}
+
+
+.cN1{
+	text-align: center;
+	color: #E7B44F;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: -5px;
+	padding-bottom: 10px;
+}
+
+.cN2{
+	text-align: center;
+	color: #E7B44F;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: -5px;
+	padding-bottom: 10px;
+}
+
+.cN3{
+	text-align: center;
+	color: #E7B44F;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: -5px;
+	padding-bottom: 10px;
+}
+
+.cN4{
+	text-align: center;
+	color: #E7B44F;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: -5px;
+	padding-bottom: 10px;
+}
+
+#dSeparar{
+	margin: auto;
+	height:10px;
+	margin: 20px; 
+}
+
+

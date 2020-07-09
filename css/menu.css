@@ -1,0 +1,48 @@
+#dLogo{
+	float:left;
+}
+#dLoginMenu{
+	float:right;
+}
+#dLinkLogin{
+	float:right;
+	margin:5px;
+	cursor:pointer;
+}
+#dLinkLogin img{
+	width:22px;
+	float:left;
+	padding-right:3px;
+}
+#dLinkLogin p{
+	color:#E7B44F;
+	float:left;
+}
+#dMenu a{
+	color:#000000;
+	text-decoration:none;
+}
+#dMenu ul{
+	float:right;
+	margin-top:12px;
+	margin-right:5px;
+	clear:both;
+}
+#dMenu li{
+	float:left;
+	padding:8px;
+	list-style:none;
+	font-size:16px;
+}
+#dMenu li:hover{
+	border-bottom:1px solid #E7B44F;
+}
+#dMenu li.ativo{
+	color:#E7B44F;
+}
+#dMenu li.deslogado{
+	margin-right:90px;
+}
+hr.espacoTop{
+	margin-top:20px;
+}

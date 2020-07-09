@@ -1,0 +1,56 @@
+#dLogin{
+	top:50%;
+	left:50%;
+	width:290px;
+	height:210px;
+	display:none;
+	position:absolute;
+	margin-top:-105px;
+	margin-left:-145px;
+	border-radius:30px;
+	background-color:#E7B44F;
+}
+#dLogin form{
+	width:220px;
+	margin:auto;
+}
+#dLogin fieldset{
+	border:none;
+}
+#dLogin h1{
+	font-size:28px;
+	font-weight:normal;
+}
+#dLogin .direita{
+	float:right;
+}
+#dLogin label{
+	font-size:16px;
+}
+#dLogin input{
+	width:215px;
+	border:none;
+	font-size:15px;
+	border-radius:5px;
+}
+#dLogin p.esqueceu{
+	color:#FF0000;
+	font-size:15px;
+	font-family:Calibri;
+}
+#dLogin span.sublinhado{
+	color:#000000;
+	text-decoration:underline;
+}
+#dLogin button{
+	font-size:16px;
+	padding:5px;
+	border-radius:5px;
+	border:1px solid #000000;
+	background-color:#E7B44F;
+}
+#dLogin p.textoPequeno{
+	color:#4F4F4F;
+	font-size:12px;
+	font-family:Calibri;
+}

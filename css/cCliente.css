@@ -1,0 +1,46 @@
+#dCadastro form{
+	width:400px;
+	margin:auto;
+	margin-top:20px;
+	padding:10px;
+	border-left:40px solid #E7B44F;
+	border-right:2px solid #E7B44F;
+}
+#dCadastro h1{
+	font-size:25px;
+	font-weight:normal;
+	margin-bottom:40px;
+	border-bottom:5px solid #E7B44F;
+}
+#dCadastro fieldset{
+	border:none;
+	padding:5px;
+}
+#dCadastro label{
+	font-size:20px;
+}
+#dCadastro span.dourado{
+	color:#E7B44F;
+}
+#dCadastro input{
+	width:280px;
+	height:30px;
+	font-size:20px;
+	border:1px solid #E7B44F;
+}
+#dCadastro p.obs{
+	color:#E7B44F;
+	font-size:16px;
+	font-weight:normal;
+	font-family:Calibri;
+	margin-top:20px;
+}
+#dCadastro button{
+	padding:8px;
+	float:right;
+	cursor:pointer;
+	font-size:16px;
+	border-radius:5px;
+	border:2px solid #E7B44F;
+	background-color:#FFFFFF;
+}
